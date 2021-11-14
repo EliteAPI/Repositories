@@ -1,6 +1,6 @@
 [
     {
-        name: "EliteVA",
+        name: "EliteVA (VoiceAttack)",
         description: "VoiceAttack plugin",
         repository: "EliteAPI/EliteVA",
         icon: "https://raw.githubusercontent.com/EliteAPI/Icons/main/ed.png",
