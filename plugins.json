@@ -3,6 +3,7 @@
         name: "EliteVA",
         description: "VoiceAttack plugin",
         repository: "EliteAPI/EliteVA",
-        icon: "https://avatar.skype.com/v1/avatars/somfic/public/?size=s"
+        icon: "https://avatar.skype.com/v1/avatars/somfic/public/?size=s",
+        defaultInstallationPath: "[LocalAppData]/EliteAPI/Test"
     }
 ]
