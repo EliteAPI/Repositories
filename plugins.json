@@ -3,7 +3,7 @@
         name: "EliteVA",
         description: "VoiceAttack plugin",
         repository: "EliteAPI/EliteVA",
-        icon: "https://github.com/EliteAPI/Icons/blob/main/ed.png",
+        icon: "https://raw.githubusercontent.com/EliteAPI/Icons/main/ed.png",
         defaultInstallationPath: "[HKEY_CURRENT_USER/SOFTWARE/VoiceAttack.com/VoiceAttack/LastRun,AppsFolder]/Apps/EliteAPI"
     }
 ]
