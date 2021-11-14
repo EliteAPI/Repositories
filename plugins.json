@@ -2,7 +2,7 @@
     {
         name: "EliteVA",
         description: "VoiceAttack plugin",
-        repository: "https://api.github.com/repos/EliteAPI/EliteVA/releases/latest",
+        repository: "EliteAPI/EliteVA",
         icon: "https://avatar.skype.com/v1/avatars/somfic/public/?size=s"
     }
 ]
