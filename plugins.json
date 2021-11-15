@@ -12,5 +12,12 @@
         repository: "EliteAPI/EliteMacro",
         icon: "https://raw.githubusercontent.com/EliteAPI/Icons/main/trading.png",
         defaultInstallationPath: "[HKEY_CURRENT_USER/SOFTWARE/VoiceAttack.com/VoiceAttack/LastRun,AppsFolder]/Apps"
+    },
+    {
+        name: "HCS VoicePacks",
+        description: "HCS plugin",
+        repository: "EliteAPI/HCS",
+        icon: "https://raw.githubusercontent.com/EliteAPI/Icons/main/rotue.png",
+        defaultInstallationPath: "[HKEY_CURRENT_USER/SOFTWARE/VoiceAttack.com/VoiceAttack/LastRun,AppsFolder]/Apps"
     }
 ]
