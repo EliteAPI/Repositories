@@ -5,5 +5,12 @@
         repository: "EliteAPI/EliteVA",
         icon: "https://raw.githubusercontent.com/EliteAPI/Icons/main/ed.png",
         defaultInstallationPath: "[HKEY_CURRENT_USER/SOFTWARE/VoiceAttack.com/VoiceAttack/LastRun,AppsFolder]/Apps"
+    },
+    {
+        name: "EliteMacro",
+        description: "VoiceMacro plugin",
+        repository: "EliteAPI/EliteMacro",
+        icon: "https://raw.githubusercontent.com/EliteAPI/Icons/main/trading.png",
+        defaultInstallationPath: "[HKEY_CURRENT_USER/SOFTWARE/VoiceAttack.com/VoiceAttack/LastRun,AppsFolder]/Apps"
     }
 ]
